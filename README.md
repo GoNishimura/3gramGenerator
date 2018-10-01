@@ -9,7 +9,7 @@ Word2Vecのモデルは、次のサイトのものを使用しています。
 http://aial.shiroyagi.co.jp/2017/02/japanese-word2vec-model-builder/
 
 出力例
-<img src="https://github.com/GoNishimura/images/blob/master/概要のコピー.pdf">
+<img src="https://github.com/GoNishimura/images/blob/master/概要のコピー-1.png">
 
 説明資料
 https://github.com/GoNishimura/images/blob/master/概要.pdf
