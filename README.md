@@ -8,5 +8,8 @@ https://drive.google.com/file/d/1VCtO__tuKD_eVro3LEiaBmiD9DkcTQ1g/view?usp=shari
 Word2Vecのモデルは、次のサイトのものを使用しています。
 http://aial.shiroyagi.co.jp/2017/02/japanese-word2vec-model-builder/
 
-PDF
-<img src="https://github.com/GoNishimura/images/blob/master/概要.pdf">
+出力例
+<img src="https://github.com/GoNishimura/images/blob/master/概要のコピー.pdf">
+
+説明資料
+https://github.com/GoNishimura/images/blob/master/概要.pdf
