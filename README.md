@@ -8,6 +8,12 @@ https://drive.google.com/file/d/1VCtO__tuKD_eVro3LEiaBmiD9DkcTQ1g/view?usp=shari
 Word2Vecのモデルは、次のサイトのものを使用しています。
 http://aial.shiroyagi.co.jp/2017/02/japanese-word2vec-model-builder/
 
+環境
+<li>
+<ul>macOS High Sierra 10.13.6</ul>
+<ul>Python 3.3.7</ul>
+</li>
+
 出力例
 <img src="https://github.com/GoNishimura/images/blob/master/概要のコピー-1.png">
 
